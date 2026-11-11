@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tutoriaodometroapp-mergeDebugResources-31:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sebastian\\.gradle\\caches\\9.5.0\\transforms\\f5d7a8ca7d7d1da5766aec661a2c6a16\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

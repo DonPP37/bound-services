@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.tutoriaodometroapp-debug-33:/layout_item_registro_tutoria.xml.flat",
+        "source": "com.example.tutoriaodometroapp-main-35:/layout/item_registro_tutoria.xml"
+    },
+    {
+        "merged": "com.example.tutoriaodometroapp-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.tutoriaodometroapp-main-35:/layout/activity_main.xml"
+    }
+]
